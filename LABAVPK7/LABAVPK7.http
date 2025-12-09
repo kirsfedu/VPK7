@@ -1,0 +1,6 @@
+@LABAVPK7_HostAddress = http://localhost:5043
+
+GET {{LABAVPK7_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
